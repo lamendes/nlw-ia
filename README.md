@@ -1,13 +1,9 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <img alt="nlw-IA" src=".github/nlw-ia-logo.png" width="15%">
+  <img alt="nlw-IA" src=".github/nlw-ia-logo.png" width="15%"> 
+  <img alt="nlw-IA" src=".github/logo-rocketseat.png" width="15%"> 
 </p>
   	<br />
-  	<p align="center">  
-  		<a href="https://rocketseat.com.br" >
-    		<img src="https://s3-sa-east-1.amazonaws.com/rocketseat-cdn/rocketseat_logo_roxa.png" alt="Logo" width="200" align="center">
-  		</a>
-	</p>
 
    <h1 align="center"> upload.ai </h1>
 
