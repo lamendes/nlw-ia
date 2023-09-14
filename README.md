@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
   <img alt="nlw-IA" src=".github/nlw-ia-logo.png" width="15%"> 
-  <img alt="nlw-IA" src=".github/logo-rocketseat.png" width="15%"> 
+  <!-- <img alt="nlw-IA" src=".github/logo-rocketseat.png" width="25%">  -->
 </p>
   	<br />
 
