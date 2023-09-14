@@ -122,7 +122,7 @@ Esse projeto está sob a licença [MIT](LICENSE).
 
 ## 📫 Contato
 
-[**LinkedIn**](https://www.linkedin.com/in/lucas-mendes-16283961/) - by Lucas Mendes 🚀
+by [**Lucas Mendes**](https://www.linkedin.com/in/lucas-mendes-16283961/)  🚀
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
