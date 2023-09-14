@@ -3,7 +3,6 @@
   <img alt="nlw-IA" src=".github/nlw-ia-logo.png" width="15%">
 </p>
   	<br />
-  	  	<br />
   	<p align="center">  
   		<a href="https://rocketseat.com.br" >
     		<img src="https://s3-sa-east-1.amazonaws.com/rocketseat-cdn/rocketseat_logo_roxa.png" alt="Logo" width="200" align="center">
@@ -78,7 +77,7 @@ Este projeto inovador, desenvolvido durante o evento nlw-IA ministrado pelo [Die
 
 ## 📦 Instalação
 
-Para clonar e executar está aplicação, você precisará do [Git](https://git-scm.com), [NodeJS v18.17.1][nodejs] ou superior + [npm v9.17.1][npm] ou superior instalado no seu computador. No seu terminal rode:
+Para clonar e executar está aplicação, você precisará do [Git](https://git-scm.com), [NodeJS v18.17.1][nodejs] ou superior + [npm v9.17.1][npm] ou superior e o [PNPm 8.7.5][pnpm] instalado no seu computador. No seu terminal rode:
 
 ```bash
 # Clonando o repositório
@@ -91,7 +90,7 @@ $ git clone https://github.com/lamendes/nlw-ia.git nlw-ia
 $ npm install -g pnpm
 ```
 
-```bash
+<!-- ```bash
 # Backend
 
 # Ir até o repositório
@@ -99,7 +98,7 @@ $ cd /update-ai-backend
 
 # Instalando as dependências
 $ pnpm i
-```
+``` -->
 
 ```bash
 # Frontend
@@ -123,7 +122,7 @@ Esse projeto está sob a licença [MIT](LICENSE).
 
 ## 📫 Contato
 
-MDKTech - [**LinkedIn**](https://www.linkedin.com/in/lucas-mendes-16283961/) - by Lucas Mendes 🚀
+[**LinkedIn**](https://www.linkedin.com/in/lucas-mendes-16283961/) - by Lucas Mendes 🚀
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
