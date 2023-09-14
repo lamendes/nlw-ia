@@ -1,12 +1,10 @@
 <!-- PROJECT LOGO -->
+   <h1 align="center"> upload.ai </h1>
+
 <p align="center">
   <img alt="nlw-IA" src=".github/nlw-ia-logo.png" width="15%"> 
   <!-- <img alt="nlw-IA" src=".github/logo-rocketseat.png" width="25%">  -->
 </p>
-  	<br />
-
-   <h1 align="center"> upload.ai </h1>
-
  </p>
   	<br />
 <p align="center"> 
