@@ -23,6 +23,7 @@
 ## 🗂 Conteúdo
 
 <!-- - 📝 [Tabela de Conteúdo](#-tabela-de-conteúdo) -->
+
 - 📋 [Projeto](#-projeto)
   - 🚀 [Tecnologias](#-tecnologias)
   - 📷 [Preview](#-preview)
@@ -38,27 +39,26 @@ Este projeto inovador, desenvolvido durante o evento nlw-IA ministrado pelo [Die
 
 ### 🚀 Tecnologias
 
--   [TypeScriot][typescript]
--   [VS Code][vc]
--   [PNPm][PNPm]
--   [Vite][ViteJS]
--   [Shadcn/ui][shadcn/ui]
--   [Lucide][Lucide]
--   [ESlint][eslint]
+- [TypeScriot][typescript]
+- [VS Code][vc]
+- [PNPm][PNPm]
+- [Vite][ViteJS]
+- [Shadcn/ui][shadcn/ui]
+- [Lucide][Lucide]
+- [ESlint][eslint]
 <!-- -   [CORS][cors]
--   [Expo][expo]
--   [Express][express]
--   [Insomnia][insomnia]
--   [KNEX.JS][knexjs]
--   [NodeJS][nodejs]
--   [Nodemon][nodemon]
--   [npm][npm]
--   [Prettier][prettier]
--   [React][react]
--   [React Native][reactnative]
--   [SQLite][sqlite]
--   [Yarn][yarn] -->
-
+- [Expo][expo]
+- [Express][express]
+- [Insomnia][insomnia]
+- [KNEX.JS][knexjs]
+- [NodeJS][nodejs]
+- [Nodemon][nodemon]
+- [npm][npm]
+- [Prettier][prettier]
+- [React][react]
+- [React Native][reactnative]
+- [SQLite][sqlite]
+- [Yarn][yarn] -->
 
 ## 📷 Preview
 
@@ -77,13 +77,12 @@ Para clonar e executar está aplicação, você precisará do [Git](https://git-
 $ git clone https://github.com/lamendes/nlw-ia.git nlw-ia
 ```
 
-
 ```bash
 # Instalando o pnpm
 $ npm install -g pnpm
 ```
 
-<!-- ```bash
+```bash
 # Backend
 
 # Ir até o repositório
@@ -91,7 +90,7 @@ $ cd /update-ai-backend
 
 # Instalando as dependências
 $ pnpm i
-``` -->
+```
 
 ```bash
 # Frontend
@@ -107,6 +106,7 @@ $ pnpm run dev
 ```
 
 <!-- LICENSE -->
+
 ## ⚖️ Licença
 
 Esse projeto está sob a licença [MIT](LICENSE).
@@ -115,7 +115,7 @@ Esse projeto está sob a licença [MIT](LICENSE).
 
 ## 📫 Contato
 
-by [**Lucas Mendes**](https://www.linkedin.com/in/lucas-mendes-16283961/)  🚀
+by [**Lucas Mendes**](https://www.linkedin.com/in/lucas-mendes-16283961/) 🚀
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
