@@ -86,7 +86,7 @@ $ npm install -g pnpm
 # Backend
 
 # Ir até o repositório
-$ cd /update-ai-backend
+$ cd /update-ai-api
 
 # Instalando as dependências
 $ pnpm i
