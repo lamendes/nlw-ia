@@ -90,6 +90,20 @@ $ cd /update-ai-api
 
 # Instalando as dependências
 $ pnpm i
+
+# Criando as migrations do banco de dados
+$ pnpm prisma migrate dev
+
+# Obs.: Após rodar o comando acima, será solicitado o nome da migration, podemos utilizar o seguinte nome "create videos and prompts"  
+
+----------------------------------------------------------------------------------------------------------------------------------------
+# Antes de executar a API, alterar o .env.example para .env e adicionar sua chave da API do OpenAI no .env
+----------------------------------------------------------------------------------------------------------------------------------------
+
+# Executar a API
+$ pnpm run dev
+
+# Obs.: Após rodar o comando acima, disponibilizará a API no endereço http://localhost:3333
 ```
 
 ```bash
@@ -101,7 +115,7 @@ $ cd /upload-ai-web
 # Instalando as dependências
 $ pnpm i
 
-# Rodar Web
+# Executar Web
 $ pnpm run dev
 ```
 
