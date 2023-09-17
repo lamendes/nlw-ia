@@ -25,3 +25,7 @@ dist-ssr
 
 # Keep environment variables out of version control
 .env
+
+*.db*
+*.mp3
+upload-ai-api/prisma/migrations/*
